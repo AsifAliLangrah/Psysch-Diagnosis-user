@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "212604658689",
+    "project_id": "userpsychdiagnosis",
+    "storage_bucket": "userpsychdiagnosis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212604658689:android:c72d9af31eed043d104c00",
+        "android_client_info": {
+          "package_name": "com.example.psych_diagnosis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212604658689-3jc406mnci331cc1jahbji2358fpnacg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0-R9vZUm93Qc9Pr8voejrbzmCDgPQcmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212604658689-3jc406mnci331cc1jahbji2358fpnacg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212604658689:android:976a5a7a97b0ca16104c00",
+        "android_client_info": {
+          "package_name": "com.example.psysch_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212604658689-3jc406mnci331cc1jahbji2358fpnacg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0-R9vZUm93Qc9Pr8voejrbzmCDgPQcmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212604658689-3jc406mnci331cc1jahbji2358fpnacg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
